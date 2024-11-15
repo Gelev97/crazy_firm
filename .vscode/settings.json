@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "param.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c",
+        "network_evaluate_tof.h": "c"
+    }
+}
